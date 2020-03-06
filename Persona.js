@@ -69,7 +69,7 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Evaristo",
+				Name: "Evaristo García",
 				Photo: "evaristo.jpg",
 				Quote: "En los 80 se vivía mejor",
 				Age: 52,
