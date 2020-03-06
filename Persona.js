@@ -44,7 +44,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Viajar, conocer gente nueva", "Luchar por los derechos LGTB+"],
 				Frustrations: ["Le frusta el que, al mencionar su género a nuevos conocidos, no sepa cómo reaccionarán", "Le gustaría tener más tiempo libre y un trabajo mejor"],
-				Bio: "Nació en el Realejo en el sena de una familia extremadamente cristiana. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó primero a una separación del matrimonio y, eventualmente, a ella querer abandonar su casa y buscar un nuevo piso en la actualidad. Busca compañeros sociables que puedan convertirse en amigos y con los que pueda hablar de cualquier cosa, más que meros compañeros de piso.",
+				Bio: "Nació en el Realejo en el seno de una familia muy influenciada por la religión cristiana. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó primero a una separación del matrimonio y, eventualmente, a ella querer abandonar su casa y buscar un nuevo piso en la actualidad. Busca compañeros sociables que puedan convertirse en amigos y con los que pueda hablar de cualquier cosa, más que meros compañeros de piso.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 4 },
