@@ -30,55 +30,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Juan Lopez",
-                Photo: "man.png",
+				Name: "Erika Rodríguez",
+                Photo: "erikaRNGphoto.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Quiere buscar piso en el centro de Granada",
+                touch1: "ordenador (Google)",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                con1: "Decidir qué app utilizar entre las muchas anunciadas en Internet",
+                ima1: "cartoon-looking.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "ordenador",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Se decide por Badi, echa un vistazo rápido y parece muy competente. La descarga.",
+                touch2: "móvil (Apple Store)",
+                feel2: "4",
+                con2: "ha gastado mucho tiempo en encontrarla, pero al menos hay muchos pisos que le gustan listados en la app",
+                ima2: "cartoon-phone-sitting.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Decide registrarse en la web para poder empezar los trámites",
+                touch3: "móvil (app de Badi)",
+                feel3: "2",
+                con3: "Solo puedes elegir entre dos géneros a la hora de registrarse, se siente atacada pero decide continuar",
+                ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Elige un piso a compartir, realiza los trámites y le dan fecha para visitar el piso y conocer a su compañero",
+                touch4: "móvil",
+                feel4: "3",
+                con4: "Tiene ganas de mudarse, pero no sabe como reaccionará la otra persona",
+                ima4: "cartoon-why.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Tras mencionar su género a su futuro compañero este se muestra incómodo y antinatural",
+                touch5: "Interacción entre personas",
+                feel5: "1",
+                con5: "Erika se da cuenta y se siente incómoda, los minutos se convierten en horas y se siente muy imponente",
+                ima5: "cartoon-sad.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                goal6: "Su futuro compañero le deja un mensaje en la app diciendo que no puede darle hueco en el piso",
+                touch6: "móvil",
+                feel6: "1",
+                con6: "Ha perdido mucho tiempo, el problema puede volver a suceder y aún no tiene ningún piso donde mudarse",
+                ima6: "cartoon-KO.png",
                 
 			},
 			{	

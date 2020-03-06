@@ -29,13 +29,13 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Erika Rodríguez",
-				Photo: "erikaRNGphoto.png",
+				Photo: "erikaRNGphoto.jpg",
 				Quote: "En la realidad no todo es tan fácil como lo hacen parecer",
 				Age: 23,
 				Occupation: "Cajera en Mercadona",
 				Family: "Sin pareja",
 				Location: "Granada (Realejo)",
-				Character: "Le gusta disfrutar del tiempo",
+				Character: "Le gusta ser independiente y las personas de mente abierta",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
