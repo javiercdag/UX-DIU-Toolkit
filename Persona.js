@@ -69,36 +69,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Evaristo",
+				Photo: "evaristo.jpg",
+				Quote: "En los 80 se vivía mejor",
+				Age: 52,
+				Occupation: "Albañil",
+				Family: "Casado durante 20 años y actualmente divorciado",
+				Location: "Granada (Armilla)",
+				Character: "Le gusta pasear con su mujer",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
-				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
+				],
+				Goals: ["Poder evadirse más del trabajo", "Cambiar a un trabajo más remunerado", "Tener compañía"],
+				Frustrations: ["No le gusta la tecnología, suele necesitar ayuda", "No se le da bien conocer gente"],
+				Bio: "Es de Armilla y vive en Granada desde siempre, pero nunca ha tenido grandes oportunidades de trabajo. LLeva 10 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y a veces se reúnen en bares",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
-					
-				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+					{ Name: "TIC/Internet", Value: 1 },
+					{ Name: "Movil", Value: 3 },
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 1 }
+
+				],
+                Contextos: "Quiere desconectar del trabajo y poder compartir experiencias con otras personas de su edad",
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Online & Social Media", Value: 1 },
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
