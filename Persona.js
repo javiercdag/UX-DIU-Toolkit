@@ -85,7 +85,7 @@ angular.module("angular", [])
 				],
 				Goals: ["Volver a formar una familia", "Aprender más sobre la arquitectura", "Ir a ver un partido del Real Madrid"],
 				Frustrations: ["No haber estudiado lo que le gusta", "Cortar un matrimonio tras 10 años", "Haber perdido el contacto con su hijo"],
-				Bio: "Nació en Armilla, se crió en una familia modesta junto con dos hermanos y fue a la escuela hasta 8º de EGB. Fue una etapa muy dura debido a que era un chico hiperactivo y tenía problemas de atención, lo que le llevó a repetir 2 veces de curso. Tras eso inició la Formación Profesional, en la que descubrió su pasión por la arquitectura. Aun así tuvo que dejarla al año de entrar para empezar a trabajar como peón en una obra, ya que su padre se quedó en paro y necesitaba ayudar a su familia. Allí en la obra conoció a su mujer, llamada Rocío, y tras 5 años de relación decidieron casarse por la Iglesia. En esa época se mudaron a una casa ellos dos, en la que tuvieron 1 hijo, llamado Juan, que actualmente se encuentra en la Universidad. Durante 10 años de casados, fue acumulando poco a poco problemas, que acabaron ocasionando la ruptura con su mujer durante su 11º aniversario, distanciándolo de su hijo, ya que éste le hecha la culpa de la ruptura. Esto hizo que decidiera mudarse a la casa de sus padres. Le encanta el fútbol y acostumbra a ir al bar de al lado de su casa con sus amigos. Además, suele ir a hacer deporte con la peña de fútbol de Armilla y quedar a escuchar los grandes hits de los 80.",
+				Bio: "Nació en Armilla, se crió en una familia modesta junto con dos hermanos y fue a la escuela hasta 8º de EGB. Fue una etapa muy dura debido a que era un chico hiperactivo y tenía problemas de atención, lo que le llevó a repetir 2 veces de curso. Tras eso inició la Formación Profesional, en la que descubrió su pasión por la arquitectura. Aun así tuvo que dejarla al año de entrar para empezar a trabajar como peón en una obra, ya que su padre se quedó en paro y necesitaba ayudar a su familia. Allí en la obra conoció a su mujer, llamada Rocío, y tras 5 años de relación decidieron casarse por la Iglesia. En esa época se mudaron a una casa ellos dos, en la que tuvieron 1 hijo, llamado Juan, que actualmente se encuentra en la Universidad. Durante 10 años de casados, fue acumulando poco a poco problemas, que acabaron ocasionando la ruptura con su mujer durante su 11º aniversario, distanciándolo de su hijo, ya que éste le hecha la culpa de la ruptura. Esto hizo que decidiera mudarse a su antiguo piso. Hace dos años se jubiló y ahora tiene mucho más tiempo libre. Le encanta el fútbol y acostumbra a ir al bar de al lado de su casa con sus amigos. Además, suele ir a hacer deporte con la peña de fútbol de Armilla y quedar a escuchar los grandes hits de los 80.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Movil", Value: 3 },
@@ -93,7 +93,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 
 				],
-                Contextos: "Quiere desconectar del trabajo, olvidarse de su relación pasada y poder compartir experiencias con otras personas de su edad",
+                Contextos: "Quiere desconectar de la rutina, olvidarse de su relación pasada y poder compartir experiencias con otras personas de su edad",
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 1 },
