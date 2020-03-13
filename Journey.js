@@ -92,50 +92,50 @@ angular.module("angular", [])
                 Photo: "evaristo.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere compartir piso con alguien para no sentirse solo",
+                goal1: "quiere publicar su habitación en la página Badi",
                 touch1: "ordenador",
                 feel1: "3",
-                con1: "es difícil buscar gente con su edad que quiera compartir piso",
+                con1: "no se le permite ponerla sin registrarse",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para compartir piso",
+                goal2: "tras registrarse, quiere indicar el tipo de persona que busca para el piso",
                 touch2: "ordenador",
                 feel2: "2",
-                con2: "hay muchas páginas para compartir piso, y no sabe cual será buena",
+                con2: "hay muchas opciones, se vuelve algo difícil",
                 ima2: "cartoon-looking.png",
                 
-                /*** PASO #3: ACTUA ***/ 
+                /*** PASO #3: ESPERA ***/ 
                 
-                goal3: "Decide entrar en Badi ya que le sale como uno de los primeros resultados",
+                goal3: "publica el piso y queda a la espera de solicitudes",
                 touch3: "ordenador",
                 feel3: "4",
-                con3: "Tiene que registrarse en la página, no se le permite hacerlo sin ese paso",
+                con3: "no recibe ninguna solicitud para el piso ofertado",
                 ima3: "cartoon-PCtyping.png",
                 
-                /*** PASO #4: OBSERVA ***/ 
+                /*** PASO #4: ACTUA ***/ 
                 
-                goal4: "Quiere buscar un piso en el centro de Granada para compartir",
+                goal4: "quiere promocionar su piso para que lo vea más gente",
                 touch4: "ordenador",
                 feel4: "2",
-                con4: "No hay ningún tipo de tutorial y no sabe cómo buscar los mejores pisos",
+                con4: "No se permite el promocionar el piso por edad",
                 ima4: "cartoon-PChard.png",
                 
-                 /*** PASO #5: ANALIZA ***/ 
+                 /*** PASO #5: INTERACTUA ***/ 
                 
-                goal5: "Encuentra 2 pisos a compartir que le interesan",
+                goal5: "Recibe la solicitud de Ana, una mujer de 48 años, y quiere responderle",
                 touch5: "ordenador",
                 feel5: "2",
-                con5: "Uno de los dos pisos buscan gente joven, por lo que rechazan su petición sólo por su edad",
+                con5: "La persona no está dentro del rango de edad de lo que busca",
                 ima5: "cartoon-PCcrying.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar en el otro piso",
+                goal6: "Aun sin cumplir la edad buscada, acepta la solicitud",
                 touch6: "ordenador",
                 feel6: "4",
-                con6: "Le molestó el trato recibido por las otras personas, pero está contento por haber encontrado piso",
+                con6: "Tarda varios días en responderle hasta aceptar de vuelta",
                 ima6: "cartoon-phoning.png",
                 
                 
