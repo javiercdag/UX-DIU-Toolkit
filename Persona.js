@@ -44,7 +44,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Viajar, conocer gente nueva", "Luchar por los derechos LGTB+"],
 				Frustrations: ["Le frusta el que, al mencionar su género a nuevos conocidos, no sepa cómo reaccionarán", "Le gustaría tener más tiempo libre y un trabajo mejor"],
-				Bio: "Nació en el Realejo en el seno de una familia muy influenciada por la religión cristiana, lo que provocó que asistiera a un colegio de monjas desde los 3 hasta los 17 años, donde sufrió bullying por parte de un grupo de cuatro chicas de su misma clase. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó a una separación del matrimonio por el caldeado ambiente en casa cuando ella tenía 16 años. Erika se quedó a vivir con su madre, quien la culpa casi sin querer por la separación, lo que influenció el que abandonara los estudios antes de acabar segundo de bachillerato antes de entrar a la universidad buscando más autonomía. Erika se refugia en los videojuegos, en concreto MMORPGs, para escapar del día a día en casa, y empezó a trabajar como cajera en el Mercadona a los 19 años para poder pagarse sus gastos. Le gusta escuchar música EDM e ir a conciertos con sus mejores amigos.",
+				Bio: "Nació en el Realejo en el seno de una familia muy influenciada por la religión cristiana, lo que provocó que asistiera a un colegio de monjas desde los 3 hasta los 17 años, donde sufrió bullying por parte de un grupo de cuatro chicas de su misma clase. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó a una separación del matrimonio, influenciada por el caldeado ambiente en casa, cuando ella tenía 16 años. Erika se quedó a vivir con su madre, quien la culpa, casi siempre subconscientemente, por su separación. Esto influenció el que abandonara los estudios antes de acabar segundo de bachillerato antes de entrar a la universidad buscando más autonomía. Erika se refugia en los videojuegos, en concreto en el género de los MMORPGs, para escapar del día a día en casa. Dos años después de dejar los estudios empezó a trabajar como cajera en el Mercadona para poder pagarse sus gastos, aunque se arrepiente de no haberlos terminado. Le gusta escuchar música EDM e ir a conciertos con sus mejores amigos, Ana e Iván, con los que apenas se puede encontrar pues estudian en otra ciudad de donde ella trabaja.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 4 },
@@ -83,8 +83,8 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				],
-				Goals: ["Poder evadirse más del trabajo", "Cambiar a un trabajo más remunerado", "Compartir sus experiencias vividas con otros"],
-				Frustrations: ["No le gusta la tecnología, suele necesitar ayuda", "No se le da bien conocer gente"],
+				Goals: ["Poder evadirse más del trabajo", "Volver a estudiar para cambiar a un trabajo más remunerado", "Compartir sus experiencias vividas con otros"],
+				Frustrations: ["Odia cuando se le malinterpreta", "No se le da bien conocer gente nueva"],
 				Bio: "Nació en Armilla, se crió en una familia modesta y fue a la escuela hasta 8º de EGB. Tras eso inició la Formación Profesional, pero la dejó para empezar a trabajar como peón en una obra. Nunca ha tenido grandes oportunidades de trabajo, ya que no continuó en su día con los estudios. Estuvo casado durante 20 años, pero por problemas de comunicación se divorció. Como albañil ha hecho algunos amigos y, a veces, se reúnen en bares para pasar el rato",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
