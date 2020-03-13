@@ -57,15 +57,15 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Elige un piso a compartir, realiza los trámites y le dan fecha para visitar el piso y conocer a su compañero",
+                goal4: "Tiene ganas de mudarse, pero no sabe como reaccionará la otra persona",
                 touch4: "móvil",
                 feel4: "3",
-                con4: "Tiene ganas de mudarse, pero no sabe como reaccionará la otra persona",
+                con4: "Elige un piso a compartir, realiza los trámites y le dan fecha para visitar el piso y conocer a su compañero",
                 ima4: "cartoon-why.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Tras mencionar su género a su futuro compañero este se muestra incómodo y antinatural",
+                goal5: "Al visitar el piso y conocer a su futuro compañero y hablar de su género con con él se muestra incómodo y antinatural",
                 touch5: "Interacción entre personas",
                 feel5: "1",
                 con5: "Erika se da cuenta y se siente incómoda, los minutos se convierten en horas y se siente muy imponente",
