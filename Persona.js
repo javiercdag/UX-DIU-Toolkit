@@ -43,7 +43,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
 				Goals: ["Viajar, conocer gente nueva", "Luchar por los derechos LGTB+"],
-				Frustrations: ["Le frusta el que, al mencionar su género a nuevos conocidos, no sepa cómo reaccionarán", "Le gustaría tener más tiempo libre y un trabajo mejor"],
+				Frustrations: ["Le frusta el que, al mencionar su género a nuevos conocidos, no sepa cómo reaccionarán", "Le gustaría tener más tiempo libre y un trabajo mejor", "Odia cuando se le malinterpreta"],
 				Bio: "Nació en el Realejo en el seno de una familia muy influenciada por la religión cristiana, lo que provocó que asistiera a un colegio de monjas desde los 3 hasta los 17 años, donde sufrió bullying por parte de un grupo de cuatro chicas de su misma clase. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó a una separación del matrimonio, influenciada por el caldeado ambiente en casa, cuando ella tenía 16 años. Erika se quedó a vivir con su madre, quien la culpa, casi siempre subconscientemente, por su separación. Esto influenció el que abandonara los estudios antes de acabar segundo de bachillerato antes de entrar a la universidad buscando más autonomía. Erika se refugia en los videojuegos, en concreto en el género de los MMORPGs, para escapar del día a día en casa. Dos años después de dejar los estudios empezó a trabajar como cajera en el Mercadona para poder pagarse sus gastos, aunque se arrepiente de no haberlos terminado. Le gusta escuchar música EDM e ir a conciertos con sus mejores amigos, Ana e Iván, con los que apenas se puede encontrar pues estudian en otra ciudad de donde ella trabaja.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "Quiere abandonar su casa lo antes posible y encontrar un piso barato y estable durante meses.",  
+                Contextos: "Quiere independizarse lo antes posible.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 5 },
