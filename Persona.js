@@ -33,7 +33,7 @@ angular.module("angular", [])
 				Quote: "En la realidad no todo es tan fácil como lo hacen parecer",
 				Age: 23,
 				Occupation: "Cajera en Mercadona",
-				Family: "Sin pareja",
+				Family: "Sin pareja, vive con su madre",
 				Location: "Granada (Realejo)",
 				Character: "Le gusta ser independiente y las personas de mente abierta",
 				PersonalityTraits: [
@@ -44,7 +44,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Viajar, conocer gente nueva", "Luchar por los derechos LGTB+"],
 				Frustrations: ["Le frusta el que, al mencionar su género a nuevos conocidos, no sepa cómo reaccionarán", "Le gustaría tener más tiempo libre y un trabajo mejor"],
-				Bio: "Nació en el Realejo en el seno de una familia muy influenciada por la religión cristiana. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó primero a una separación del matrimonio, influenció el que abandonara los estudios tras acabar el bachillerato antes de entrar a la universidad buscando más autonomía y alejarse del ámbito familiar y, eventualmente, a querer buscar un nuevo piso en la actualidad. Busca compañeros sociables que puedan convertirse en amigos y con los que pueda hablar de cualquier cosa, más que meros compañeros de piso.",
+				Bio: "Nació en el Realejo en el seno de una familia muy influenciada por la religión cristiana, lo que provocó que asistiera a un colegio de monjas desde los 3 hasta los 17 años. En la adolescencia descubrió que no se sentía representada por ninguno de los dos géneros clásicos, aunque sí por el pronombre 'ella'. Su padre no era capaz de entenderla, lo que llevó a una separación del matrimonio por el caldeado ambiente en casa cuando ella tenía 16 años. Erika se quedó a vivir con su madre, quien la culpa casi sin querer por la separación, lo que influenció el que abandonara los estudios antes de acabar segundo de bachillerato antes de entrar a la universidad buscando más autonomía. Erika se refugia en los videojuegos, en concreto MMORPGs, para escapar del día a día en casa, y empezó a trabajar como cajera en el Mercadona a los 19 años para poder pagarse sus gastos. Le gusta escuchar música EDM e ir a conciertos con sus mejores amigos.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 4 },
